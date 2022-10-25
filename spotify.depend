@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1664972122 source:c:\users\jpbus\desktop\facultad\programacion 2\spotify\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaSimple.h"
+	"estructuras.h"
+	<stdbool.h>
+	"fila.h"
+
+1664577784 c:\users\jpbus\desktop\facultad\programacion 2\spotify\listasimple.h
+	"estructuras.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1664290251 c:\users\jpbus\desktop\facultad\programacion 2\spotify\estructuras.h
+	<stdio.h>
+	<stdlib.h>
+
+1664577757 source:c:\users\jpbus\desktop\facultad\programacion 2\spotify\listasimple.c
+	"listaSimple.h"
+
+1664972344 source:c:\users\jpbus\desktop\facultad\programacion 2\spotify\fila.c
+	"fila.h"
+
+1664579237 c:\users\jpbus\desktop\facultad\programacion 2\spotify\fila.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"listaSimple.h"
+
